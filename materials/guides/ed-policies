@@ -48,7 +48,7 @@
 </ul>
 
 <h2 id="introduction">Introduction</h2>
-<p>In Spring 2021 we will use Ed Discussions as our course forum. If you’re new to Ed, please read the <a href="ed-guide">Ed guide</a>, which should get you familiar with this platform. This post includes a collection of guidelines for etiquette on Ed, that we ask you to read entirely so we can all have an enjoyable experience this semester!</p>
+<p>In Spring 2021 we will use Ed Discussions as our course forum. If you’re new to Ed, please read the <a href="ed-guide.html">Ed guide</a>, which should get you familiar with this platform. This post includes a collection of guidelines for etiquette on Ed, that we ask you to read entirely so we can all have an enjoyable experience this semester!</p>
 
 <p>In CS 61B, we are moving into a more realistic programming environment, with real world tools and open ended problems. This generates lots of posts. To help keep Ed concise, and to help build your independence as a programmer, you should post a question only after you have done the following:</p>
 
@@ -103,11 +103,11 @@
     <p>Uncategorized or miscategorized posts. Ed is organized with categories and subcategories. Please only post using the appropriate tags otherwise the post might be declined. This helps other students to find the questions more easily and staff to answer questions more quickly.</p>
   </li>
   <li>
-    <p>Screenshots in mega threads. These burden the threads and cause them to be very slow. If you want to share terminal/intelliJ output/errors, you can paste the text using code formatting in your mega thread comment. This is the icon to the right of the “underline” formatting option. You can see our <a href="ed-guide">Ed guide</a> to learn more about using code formatting. If you feel that your question requires a screenshot to fully understand, please make a private post.</p>
+    <p>Screenshots in mega threads. These burden the threads and cause them to be very slow. If you want to share terminal/intelliJ output/errors, you can paste the text using code formatting in your mega thread comment. This is the icon to the right of the “underline” formatting option. You can see our <a href="ed-guide.html">Ed guide</a> to learn more about using code formatting. If you feel that your question requires a screenshot to fully understand, please make a private post.</p>
   </li>
 </ul>
 
-<p>Most importantly, please find the appropriate mega thread to post your questions in. Every assignment will have its own mega threads. Some assignments will even have a mega thread for various subparts. Before posting your question, make sure it has not been asked already in the mega thread. Please refer to our <a href="ed-guide">Ed guide</a> to see how to search mega threads efficiently. Only make your post outside of a mega thread if you can’t find one that is appropriate for your question.</p>
+<p>Most importantly, please find the appropriate mega thread to post your questions in. Every assignment will have its own mega threads. Some assignments will even have a mega thread for various subparts. Before posting your question, make sure it has not been asked already in the mega thread. Please refer to our <a href="ed-guide.html">Ed guide</a> to see how to search mega threads efficiently. Only make your post outside of a mega thread if you can’t find one that is appropriate for your question.</p>
 
 <p>We reserve the right to decline or delete any Ed posts or follow-ups that violate these rules without notice.</p>
 

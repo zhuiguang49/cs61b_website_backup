@@ -101,7 +101,7 @@
 <h2 id="rules-for-collaboration">Rules for Collaboration</h2>
 
 <h3 id="using-git">Using Git</h3>
-<p>As mentioned above, you and your partner(s) will have access to a git repository in which you should store your collaborative work for each lab and/or Project 3. You should use this repo (not your personal sp21-s*** repos) to work on partner assignments (Project 3 and optionally labs). Please refer to <a href="git-wtfs">our git guide</a> for git-related questions.</p>
+<p>As mentioned above, you and your partner(s) will have access to a git repository in which you should store your collaborative work for each lab and/or Project 3. You should use this repo (not your personal sp21-s*** repos) to work on partner assignments (Project 3 and optionally labs). Please refer to <a href="git-wtfs.html">our git guide</a> for git-related questions.</p>
 
 <p>Just like in your personal repos, you will have to add the skeleton repo as a remote to your cloned copy of the partner repo. This is so you can pull the starter code for each partner assignment before you start working:</p>
 

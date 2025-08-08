@@ -284,7 +284,7 @@ Design documents are important tools for software engineers. In a nutshell, thes
 
 <h4 id="example">Example</h4>
 
-<p>To illustrate all this, we’ve created <a href="capers-example">a sample design document</a> for the Capers Lab.</p>
+<p>To illustrate all this, we’ve created <a href="capers-example.html">a sample design document</a> for the Capers Lab.</p>
 
 <h3 id="phase-2-interactivity">Phase 2: Interactivity</h3>
 
@@ -539,7 +539,7 @@ penalities).</li>
 <h3 id="checkoff-script-and-form">Checkoff Script and Form</h3>
 
 <p>In the hopes of keeping this process as transparent as possible, click
-<a href="proj3checkoff">here</a> for the exact script the instructor will use when checking
+<a href="proj3checkoff.html">here</a> for the exact script the instructor will use when checking
 your project. We’re running checkoffs asynchronously this year, so to make this
 as streamlines as possible, we are having everyone submit a form telling us what
 ambition points they’ve attempted as well as how to use those features. <strong>Please
